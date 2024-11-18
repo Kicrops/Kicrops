@@ -9,6 +9,15 @@ My name is **Kicrops**, I am a passionate software developer who loves programmi
 - 🌱 Currently, I’m studying Informatics Engineering and trying to improve my Backend abilities.  
 
 ---
+
+## 🚀 Featured Projects  
+
+- 📝 **[Fullstack To-Do List](https://github.com/Kicrops/fullstack-todolist)**  
+  A simple to-do list web application with full CRUD functionality.  
+  - **Tech:** React, Node.js, SQLite  
+
+---
+
 ## 💻 Tech Stack  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
