@@ -1,5 +1,5 @@
-####**Hello there!**  
-######*General Kenobi*
+#### Hello there!  
+###### *General Kenobi*
 
 My name is **Kicrops**, I am a passionate software developer who loves programming. Welcome to my GitHub profile!  
 
