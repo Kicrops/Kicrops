@@ -1,4 +1,4 @@
-**Hello there!**
+**Hello there!**\
 *General Kenobi*
 
 My name is **Kicrops**, I am a passionate software developer who loves programming. Welcome to my GitHub profile!  
@@ -24,3 +24,4 @@ My name is **Kicrops**, I am a passionate software developer who loves programmi
 ---
 
 Thanks for stopping by!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kicrops&layout=compact)
