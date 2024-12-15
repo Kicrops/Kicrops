@@ -16,7 +16,7 @@ My name is **Kicrops**, I am a passionate software developer who loves programmi
   A simple to-do list web application with full CRUD functionality and database connection.  
   - **Tech:** Express, React, Node.js, SQLite
 - 🛒 **[MERN Fullstack Store](https://github.com/Kicrops/mern-store)**  
-  A store web application with full CRUD functionality and database connection.  
+  A store web application with full CRUD functionality and database connection using the MERN Stack.  
   - **Tech:** MongoDB, Express, React, Node.js, Vite
 
 
