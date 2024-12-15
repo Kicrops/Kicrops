@@ -13,8 +13,12 @@ My name is **Kicrops**, I am a passionate software developer who loves programmi
 ## 🚀 Featured Projects  
 
 - 📝 **[Fullstack To-Do List](https://github.com/Kicrops/fullstack-todolist)**  
-  A simple to-do list web application with full CRUD functionality.  
-  - **Tech:** React, Node.js, SQLite  
+  A simple to-do list web application with full CRUD functionality and database connection.  
+  - **Tech:** Express, React, Node.js, SQLite
+- 🛒 **[MERN Fullstack Store](https://github.com/Kicrops/mern-store)**  
+  A store web application with full CRUD functionality and database connection.  
+  - **Tech:** MongoDB, Express, React, Node.js, Vite
+
 
 ---
 
