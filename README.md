@@ -18,7 +18,9 @@ My name is **Kicrops**, I am a passionate software developer who loves programmi
 - 🛒 **[MERN Fullstack Store](https://github.com/Kicrops/mern-store)**  
   A store web application with full CRUD functionality and database connection using the MERN Stack.  
   - **Tech:** MongoDB, Express, React, Node.js, Vite
-
+- 🫂 **[MERN Fullstack Social Media APP](https://github.com/Kicrops/mern-social-media-app)**  
+  A social media web application with full CRUD functionality (users, posts, likes, comments) and database connection using the MERN Stack.  
+  - **Tech:** MongoDB, Express, JWT, React, Node.js, Vite
 
 ---
 
